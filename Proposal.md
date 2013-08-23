@@ -1,6 +1,6 @@
 # Quality Assurance using Behat and the Drupal Extension
 
-This session will cover Behavior Driven Development (BDD) using
+This session will cover Behavior-Driven Development (BDD) using
 [Behat](http://behat.org) and the
 [Drupal Extension](http://drupal.org/project/drupalextension) to test
 Drupal sites. We will start with the basics behind BDD, cover what is
@@ -8,11 +8,16 @@ possible now using the Drupal Extension, and finish with a roadmap for
 the future of the extension, as well as efforts to move much of the
 core testing framework to Behat in Drupal 9.
 
-## Behavioral Driven Development
+## Behavior-Driven Development
 
 With BDD, you write human-readable stories that describe the behavior
-of your application. These stories can then be auto-tested against
+of your application. These stories can then be automated to test
 your application.
+
+Automated testing is an enticing motivator to practice Behavior-Driven Development.
+The most important value, however, is learning a process to help
+ensure that you're building (and testing) the right thing: Site features
+with high business or organziational values.
 
 ## Testing Drupal sites, what is currently possible
 
