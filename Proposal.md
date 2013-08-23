@@ -40,7 +40,7 @@ An example
 
 ## Drupal 9
 
-The current code to test if node form **buttons** are working are not
+The current code to test if node form **buttons** are working or not
 can be seen
 [here](http://drupalcode.org/project/drupal.git/blob/refs/heads/8.x:/core/modules/node/lib/Drupal/node/Tests/NodeFormButtonsTest.php#l41). It
 is long, complex, and understood only by the people that wrote the
